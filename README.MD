@@ -6,29 +6,16 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
     preview do podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="assets/audio/episode1.mp3promptsntrols title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
 ## 💻 Tecnologias e Ferramentas utilizadas no projeto
 
@@ -41,11 +28,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [Samsung Notes](https://www.samsung.com/us/support/owners/app/samsung-notes/)
 
 ## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
+- Título, Tema e chatgpt gerados via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Midjourney para gerar imagensgnssdçflgnçwdgonshnsaAudioLabtargnçwdgonshnsaAudioLabtarra tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
