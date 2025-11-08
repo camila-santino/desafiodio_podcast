@@ -11,6 +11,11 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
 </p>
 
 <p align="center">
@@ -18,17 +23,12 @@
 </p>
 
 <div align="center">
-    <audio src="assets/audio/episode1.mp3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias e Ferramentas utilizadas no projeto
 
