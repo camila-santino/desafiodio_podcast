@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    [Preview do Podcast A Nova Ordem dos Dados – Entre algoritmos, dragões e descobertas digitais](assets/audio/episode1.mp3)
+    (Preview do Podcast A Nova Ordem dos Dados – Entre algoritmos, dragões e descobertas digitais)[assets/audio/episode1.mp3]
 </p>
 
 <div align="center">
