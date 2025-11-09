@@ -5,7 +5,7 @@
 />
 </p>
 
-#A Nova Ordem dos Dados – Entre algoritmos, dragões e descobertas digitais
+# A Nova Ordem dos Dados – Entre algoritmos, dragões e descobertas digitais
 
 <p align="center">
 [Preview do Podcast](https://github.com/camila-santino/desafiodio_podcast/blob/main/assets/audio/episode1.mp3)
