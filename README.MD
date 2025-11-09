@@ -47,6 +47,8 @@ Um convite para pensar o presente com olhos de ficção — e perceber que talve
 
 Ouça Agora: [Episódio Piloto](https://hubhopper.com/podcast/a-nova-ordem-dos-dados-entre-algoritmos-dragoes-e-descobertas-digitais/472574)
 
+
+---
 ## 👨‍💻 Monitor Expert
 
 <p>
@@ -78,5 +80,4 @@ Ouça Agora: [Episódio Piloto](https://hubhopper.com/podcast/a-nova-ordem-dos-d
 <p>
 
 ---
-
 por [Camila Santino](https://github.com/camila-santino)
