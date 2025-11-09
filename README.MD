@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    [Preview do Podcast A Nova Ordem dos Dados – Entre algoritmos, dragões e descobertas digitais](assets/audio/episode1.mp3)
 </p>
 
 <div align="center">
-    <audio src="assets/audio/episode1.mp3promptsntrols title="Podcast editado"></audio>
+    <audio src="assets/audio/episode1.mp3" controls title="Episódio 1 - O futuro já começou (e parece ficção científica)"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
